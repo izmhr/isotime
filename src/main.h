@@ -12,6 +12,7 @@ extern GColor g_bg_color;
 
 #include "drawable/segment.h"
 #include "drawable/digit.h"
+  
 
 #define FRAME_RATE_HIGH 30
 
